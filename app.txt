@@ -2,7 +2,7 @@
     {
         "id": "1",
         "ads_data": "{\"sdk_key\":\"jfc\",\"banner_ad_id\":\"vvix\",\"inter_ad_id\":\"cc\",\"native_ad_id\":\"ixi\"}",
-        "download_url": "https:\/\/example.com\/download.apk",
+        "download_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.droblixords.puz.game.adventure",
         "web_url": "https:\/\/example.com",
         "app_version": "0",
         "message": "New update available!",

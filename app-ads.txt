@@ -3961,6 +3961,7 @@ eskimi.com, 2020001228, RESELLER
 eskimi.com, 2020001323, RESELLER
 eskimi.com, 22950519347, RESELLER
 essentiads.com, 32d9f147, DIRECT
+essentiads.com, 32d9f147, RESELLER
 evermont.io, 1012, RESELLER
 evermont.io, 1013, RESELLER
 evermont.io, 1014, RESELLER
@@ -7924,4 +7925,4 @@ yieldmo.com, 3377199372461613093, RESELLER
 yieldmo.com, 3746143199094055132, RESELLER
 yieldmo.com, 2719019867620450718, RESELLER
 zetaglobal.net, 546, RESELLER
-cas.ai, 920fdfc2-ba83-456b-a76f-197b82e5494c, DIRECT
+cas.ai, f2ce5dad-5f9f-4ba8-ade5-c81f4ab45247, DIRECT
